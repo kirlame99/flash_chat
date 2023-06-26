@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557867173135",
+    "project_id": "flah-chat-35d78",
+    "storage_bucket": "flah-chat-35d78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557867173135:android:9588dc7be2cdf641a52a7a",
+        "android_client_info": {
+          "package_name": "nass.malik.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557867173135-o0gg6594ednnagmeed4l97ce89gio5is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6HJzgv70Tsez-bvxhGnjjfgqtHdTMGYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557867173135-o0gg6594ednnagmeed4l97ce89gio5is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
